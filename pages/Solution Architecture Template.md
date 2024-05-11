@@ -26,14 +26,11 @@
 		- What does the infrastructure look like
 	- ## Security model
 		- Threat model and
-	- ## Reliability
-		- Whilst I would love to implement FMEA
 - # IT Service model
 	- ## Observability and telemetry
 		- What are we sampling
 		- How are we sampling
-		- What alert conditions
-	- ## Failure Mode and Effect Analysis
+		- What alert conditions are we going to setup
 		- See [What is FMEA? Failure Mode & Effects Analysis | ASQ](https://asq.org/quality-resources/fmea) for more information
 	- ## Ownership and Support model
 		- Who is going to support the business service, what are the requirements in terms of FTEs etc.
