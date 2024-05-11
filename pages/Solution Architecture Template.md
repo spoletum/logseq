@@ -34,7 +34,7 @@
 		- How are we sampling
 		- What alert conditions are we going to setup
 		- See [What is FMEA? Failure Mode & Effects Analysis | ASQ](https://asq.org/quality-resources/fmea) for more information
-		-
+		- Which recovery scenarios are going to be manual, which automated
 		- Who is going to support the business service, what are the requirements in terms of FTEs etc.
 	- ## Compliance
 		- Auditing
