@@ -29,6 +29,8 @@
 		- Which ones?
 		- Why?
 - # IT Service model
+	- ## Service organization
+		-
 	- ## Service Reliability
 		- What are we sampling
 		- How are we sampling
