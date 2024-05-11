@@ -31,7 +31,7 @@
 - # IT Service model
 	- ## Service organization
 		- Organization chart
-		- St
+		- Stakeholders and collaborations
 		- RACI
 	- ## Service Reliability
 		- What are we sampling
