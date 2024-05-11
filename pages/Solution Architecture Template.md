@@ -25,7 +25,8 @@
 	- ## Infrastructure
 		- What does the infrastructure look like
 	- ## Security model
-		- Threat model and
+		- Threat model, detection and response
+	- Gaps from technology strategy
 - # IT Service model
 	- ## Observability and telemetry
 		- What are we sampling
