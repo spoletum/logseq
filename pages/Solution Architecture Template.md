@@ -4,7 +4,7 @@
 	- ## Functional
 		- Summary functional requirements or link to a page containing them
 		- What is this service going to deliver?
-		-
+		- Is the service bound to compliance requirements?
 	- ## Non-Functional
 		- Summary non-functional requirements or link to a page containing them
 		- SLAs
