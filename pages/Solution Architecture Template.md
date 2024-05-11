@@ -22,5 +22,7 @@
 		- ### Data flows
 			- Rather than starting with a static architecture, we start by describing the data flows for each use case. The static architecture is just a by-product of the data flows.
 		- ### Resulting static architecture
+		-
 - # Operating model
+- # Financial model
 -
