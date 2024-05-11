@@ -41,5 +41,6 @@
 		- GDPR compliance
 		- PCI-DSS compliance
 - # Financial model
-- Cost of build
--
+	- Cost of build
+	- Cost of run year 1
+	- Cost of run year N, based on growth assumptions
