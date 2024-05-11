@@ -22,9 +22,11 @@
 		- ### Data flows
 			- Rather than starting with a static architecture, we start by describing the data flows for each use case. The static architecture is just a by-product of the data flows.
 		- ### Resulting static architecture
+	- ## Infrastructure
+		- What does the infrastructure look like
 	- ## Reliability
 		- Whilst I would love to implement FMEA
-- # Operating model
+- # Service model
 	- ## Support
 		- Who is going to support the business service
 - # Financial model
