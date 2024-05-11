@@ -24,5 +24,7 @@
 		- ### Resulting static architecture
 		-
 - # Operating model
+	- ## Support
+		- Who is going to support it
 - # Financial model
 -
