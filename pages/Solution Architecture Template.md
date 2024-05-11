@@ -21,7 +21,8 @@
 			- Rather than starting with a static architecture, we start by describing the data flows for each use case. The static architecture is just a by-product of the data flows.
 		- ### Resulting target state architecture
 			- The static component architecture is a result of the data flows, hence it goes after
-		-
+		- ### Interim architectural states
+			-
 	- ## Infrastructure
 		- What does the infrastructure look like
 	- ## Security model
