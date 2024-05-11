@@ -47,10 +47,10 @@
 		- Auditing
 		- GDPR compliance
 		- PCI-DSS compliance
-- # Implementation
-	- ## Circuit board
-		- High level implementation milestones
-		-
 	- ## Financial model
 		- Cost of run year 1
 		- Cost of run year N, based on growth assumptions
+- # Implementation
+	- ## Circuit board
+		- High level implementation milestones
+		- Cost of build
