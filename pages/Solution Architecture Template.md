@@ -30,7 +30,7 @@
 		- Why?
 - # Implementation
 	- ## Circuit board
-	-
+	- ## Architectural interim states
 - # IT Service model
 	- ## Service organization
 		- Organization chart
