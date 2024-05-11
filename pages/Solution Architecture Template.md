@@ -41,4 +41,5 @@
 		- GDPR compliance
 		- PCI-DSS compliance
 - # Financial model
+- Cost of build
 -
