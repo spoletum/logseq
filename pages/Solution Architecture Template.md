@@ -7,8 +7,7 @@
 		- Is the service bound to compliance requirements?
 	- ## Non-Functional
 		- Summary non-functional requirements or link to a page containing them
-		- SLAs / SLOs (e.g. RTO / RPO / Uptime)
-		- Operations window
+			- Volumes, etc.
 - # Design
 	- ## Architecturally significant use cases
 		- What are the use cases that have shaped the proposed design?
