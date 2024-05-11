@@ -15,4 +15,4 @@
 		- What are the specific challenges that these use cases present?
 	- ## Current Design
 		- If the service already exists, what does the system look like?
-		-
+		- What are the gaps that the current design cannot meet, in terms of use cases?
