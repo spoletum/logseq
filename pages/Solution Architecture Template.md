@@ -30,7 +30,7 @@
 		- Why?
 - # IT Service model
 	- ## Service organization
-		-
+		- Organization chart
 	- ## Service Reliability
 		- What are we sampling
 		- How are we sampling
