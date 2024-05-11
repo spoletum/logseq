@@ -28,10 +28,6 @@
 		- Is this design introducing drifts from the technology strategy?
 		- Which ones?
 		- Why?
-- # Implementation
-	- ## Circuit board
-	- ## Architectural interim states
-		- If the implementation
 - # IT Service model
 	- ## Service organization
 		- Organization chart
@@ -48,6 +44,11 @@
 		- Auditing
 		- GDPR compliance
 		- PCI-DSS compliance
+- # Implementation
+	- ## Circuit board
+		- High level implementation milestones
+	- ## Architectural interim states
+		- If the implementation
 	- ## Financial model
 		- Cost of build
 		- Cost of run year 1
