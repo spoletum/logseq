@@ -11,4 +11,5 @@
 - # Current Design
 	- If it exists
 - # Logical Design
-	-
+	- ## Architecturally significant use cases
+		-
