@@ -17,5 +17,7 @@
 	- ## (Optional) Current Design Gaps
 		- If the service already exists, what does the system look like? No need to include the whole design document, just a link to it.
 		- What are the requirements that the current design cannot meet, in terms of use cases?
-	- # Use cases realization
+	- ## Use cases realization
+		- ### Data flows
+		- ### Resulting static architecture
 	-
