@@ -1,5 +1,5 @@
 # Business Context
-	- Illustrate what is the business outcome that delivering this project
+	- Illustrate what is the business outcome that this project is going to deliver
 - # Requirements
 	- ## Functional
 		- Summary functional requirements or link to a page containing them
@@ -7,8 +7,7 @@
 		- Is the service bound to compliance requirements?
 	- ## Non-Functional
 		- Summary non-functional requirements or link to a page containing them
-		- SLAs
-		- RTO / RPO / Uptime
+		- SLAs / SLOs (e.g. RTO / RPO / Uptime)
 		- Operations window
 - # Design
 	- ## Architecturally significant use cases
