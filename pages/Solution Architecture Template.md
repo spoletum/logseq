@@ -1,4 +1,6 @@
-# Business Context
+public:: true
+
+- # Business Context
 	- Illustrate what is the business outcome that this project is going to deliver
 - # Requirements
 	- ## Functional
