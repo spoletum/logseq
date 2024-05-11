@@ -28,6 +28,9 @@
 		- Is this design introducing drifts from the technology strategy?
 		- Which ones?
 		- Why?
+- # Implementation
+	- ## Circuit board
+	-
 - # IT Service model
 	- ## Service organization
 		- Organization chart
