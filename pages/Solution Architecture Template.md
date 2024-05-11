@@ -24,6 +24,8 @@
 		- ### Resulting static architecture
 	- ## Infrastructure
 		- What does the infrastructure look like
+	- ## Security model
+		-
 	- ## Reliability
 		- Whilst I would love to implement FMEA
 - # Service model
