@@ -25,12 +25,16 @@
 	- ## Infrastructure
 		- What does the infrastructure look like
 	- ## Security model
-		-
+		- Threat model and
 	- ## Reliability
 		- Whilst I would love to implement FMEA
 - # Service model
 	- ## Observability and telemetry
 	- ## Support model
 		- Who is going to support the business service, what are the requirements in terms of FTEs etc.
+	- ## Compliance
+		- Data auditing
+		- GDPR compliance
+		- PCI
 - # Financial model
 -
