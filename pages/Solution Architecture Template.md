@@ -9,9 +9,10 @@
 		- SLAs
 		- RTO / RPO / Uptime
 		- Operations window
-- # Logical Design
+- # Design
 	- ## Architecturally significant use cases
 		- What are the use cases that have shaped the proposed design?
 		- What are the specific challenges that these use cases present?
-- # Current Design
-	- If the service still exists
+	- ## Current Design
+		- If the service already exists, what does the system look like?
+		-
