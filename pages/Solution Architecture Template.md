@@ -30,7 +30,7 @@
 		- Whilst I would love to implement FMEA
 - # Service model
 	- ## Observability and telemetry
-	-
+	- ## Failure Mode and Effect Analysis
 	- ## Support model
 		- Who is going to support the business service, what are the requirements in terms of FTEs etc.
 	- ## Compliance
