@@ -31,7 +31,7 @@
 - # IT Service model
 	- ## Observability and telemetry
 	- ## Failure Mode and Effect Analysis
-		- See FMEA for more information
+		- See []FMEA for more information
 	- ## Ownership and Support model
 		- Who is going to support the business service, what are the requirements in terms of FTEs etc.
 	- ## Compliance
