@@ -8,5 +8,7 @@
 		- SLAs
 		- RTO / RPO / Uptime
 		- Operations window
+- # Current Design
+	- If it exists
 - # Logical Design
 	-
