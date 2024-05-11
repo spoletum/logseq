@@ -25,7 +25,7 @@
 	- ## Security model
 		- Threat model, detection and response
 	- ## Gaps from technology strategy
-		- Is this design introducing
+		- Is this design introducing gaps
 - # IT Service model
 	- ## Observability and telemetry
 		- What are we sampling
