@@ -22,7 +22,7 @@
 		- ### Resulting target state architecture
 			- The static component architecture is a result of the data flows, hence it goes after
 		- ### (Optional) Interim architectural states
-			- If the transformation consists of different steps, each one enabling specigfi
+			- If the transformation consists of different steps, each one enabling specific value, describe them here
 	- ## Infrastructure
 		- What does the infrastructure look like
 	- ## Security model
@@ -50,9 +50,7 @@
 - # Implementation
 	- ## Circuit board
 		- High level implementation milestones
-	- ## Architectural interim states
-		- If the implementation
+		-
 	- ## Financial model
-		- Cost of build
 		- Cost of run year 1
 		- Cost of run year N, based on growth assumptions
