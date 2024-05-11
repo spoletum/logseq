@@ -1,5 +1,5 @@
 # Business Context
-	- Illustrate what is the business outcome
+	- Illustrate what is the business outcome that delivering this project
 - # Requirements
 	- ## Functional
 		- Summary functional requirements or link to a page containing them
@@ -7,5 +7,6 @@
 		- Summary non-functional requirements or link to a page containing them
 		- SLAs
 		- RTO / RPO / Uptime
+		- Operations window
 - # Logical Design
 	-
