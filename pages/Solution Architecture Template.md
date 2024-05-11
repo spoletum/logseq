@@ -14,5 +14,6 @@
 		- What are the use cases that have shaped the proposed design?
 		- What are the specific challenges that these use cases present?
 	- ## Current Design
-		- If the service already exists, what does the system look like?
-		- What are the gaps that the current design cannot meet, in terms of use cases?
+		- If the service already exists, what does the system look like? No need to include the whole design document, just a link to it.
+		- What are the requirements that the current design cannot meet, in terms of use cases?
+		-
