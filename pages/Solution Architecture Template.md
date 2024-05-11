@@ -12,4 +12,5 @@
 	- If the service still exists
 - # Logical Design
 	- ## Architecturally significant use cases
-		- What are the use cases
+		- What are the use cases that have shaped the proposed design?
+		- What are the specific challenges that these use cases present?
