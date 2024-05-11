@@ -35,6 +35,6 @@
 	- ## Compliance
 		- Data auditing
 		- GDPR compliance
-		- PCI
+		- PCI-DSS compliance
 - # Financial model
 -
