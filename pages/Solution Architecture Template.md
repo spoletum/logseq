@@ -20,5 +20,6 @@
 		- What are the requirements that the current design cannot meet, in terms of use cases?
 	- ## Use cases realization
 		- ### Data flows
+			- rATHER THAN
 		- ### Resulting static architecture
-	-
+		-
