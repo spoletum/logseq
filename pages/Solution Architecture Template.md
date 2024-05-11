@@ -9,7 +9,7 @@
 		- RTO / RPO / Uptime
 		- Operations window
 - # Current Design
-	- If it exists
+	- If the service still exists
 - # Logical Design
 	- ## Architecturally significant use cases
-		-
+		- What are the use cases
